@@ -1,0 +1,7 @@
+@ApplicationSetup(Id = "ApplicationSetup", Order = 1)
+method ApplicationSetup(Version: Version)
+;
+
+@ProjectUpdate(Id = "ConvertData", Order = 1)
+method ConvertData(PreviousVersion: Version, NewVersion: Version)
+;

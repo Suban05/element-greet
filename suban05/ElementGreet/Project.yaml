@@ -1,0 +1,10 @@
+Id: 0196396f-9d89-74d3-93e9-6cecc0eb17e6
+CompatibilityMode: 7.0
+Vendor: suban05
+Name: ElementGreet
+Version: 1.0
+Presentation: "Element greet"
+VendorPresentation: "suban05"
+LocalizationLanguages: [Russian]
+DefaultLanguage: Russian
+DevelopmentLanguage: English
