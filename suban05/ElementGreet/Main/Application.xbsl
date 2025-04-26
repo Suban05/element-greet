@@ -1,4 +1,4 @@
 @Handler
 method OnOpenByLink(Event: OnOpenByLinkEvent)
-    Message("Hello, world")
+    Message("Hello world")
 ;
