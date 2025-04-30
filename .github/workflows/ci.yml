@@ -6,7 +6,7 @@ on:
       - main
 
 jobs:
-  ci-1cmycloud:
+  CI:
     runs-on: ubuntu-latest
 
     steps:
